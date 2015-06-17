@@ -1,0 +1,15 @@
+{
+  "name": "quantum-underscorejs",
+  "version": "1.8.3",
+  "authors": [
+    "Sameer Mehta <sameer.mehta@indianic.com>"
+  ],
+  "description": "Contain underscore js files",
+  "keywords": [
+    "underscore",
+    "underscorejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ]
+}
