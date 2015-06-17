@@ -1,6 +1,7 @@
 {
   "name": "quantum-underscorejs",
   "version": "1.8.3",
+  "main": "underscore.js",
   "authors": [
     "Sameer Mehta <sameer.mehta@indianic.com>"
   ],
